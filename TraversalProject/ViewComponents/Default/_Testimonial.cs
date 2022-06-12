@@ -8,14 +8,13 @@ using System.Threading.Tasks;
 
 namespace TraversalProject.ViewComponents.Default
 {
-    public class _Feature : ViewComponent
+    public class _Testimonial :ViewComponent
     {
-        FeatureManager featureManager = new FeatureManager(new EfFeatureDal());
-
+        TestimonialManager testimonialManager = new TestimonialManager(new EfTestimonialDal());
         public IViewComponentResult Invoke()
         {
-            var values = featureManager.TGetList();
-            return View(/*values*/);
+            var values = testimonialManager.TGetList();
+            return View(values);
         }
     }
 }

@@ -167,3 +167,7 @@ C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Vie
 C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Views\Shared\Components\_SliderPartial\Default.cshtml.g.cs
 C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Views\Shared\Components\_PopularDestination\Default.cshtml.g.cs
 C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Views\Shared\Components\_Statistic\Default.cshtml.g.cs
+C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Views\Shared\Components\_Feature\Default.cshtml.g.cs
+C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Views\Shared\Components\_SubAbout\Default.cshtml.g.cs
+C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Views\Shared\Components\_Testimonial\Default.cshtml.g.cs
+C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Views\Destination\Index.cshtml.g.cs
