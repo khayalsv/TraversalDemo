@@ -188,3 +188,4 @@ C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Are
 C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Areas\Member\Views\_ViewImports.cshtml.g.cs
 C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Areas\Member\Views\_ViewStart.cshtml.g.cs
 C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Areas\Member\Views\Destination\Index.cshtml.g.cs
+C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Areas\Member\Views\Profile\Index.cshtml.g.cs
