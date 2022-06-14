@@ -58,7 +58,7 @@ Author URL: http://w3layouts.com
                         <h4>Join Us</h4>
                         <p>Create Your Account, It's Free.</p>
                     </div>
-                    <form method="post">
+                    <form method="post" class="signin-form">
                         <div class="form-input">
                             <label>Name</label>
                             <input type="text" asp-for="Name"   />
@@ -91,6 +91,8 @@ Author URL: http://w3layouts.com
                             <input type="password" asp-for="ConfirmPassword" />
                             <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
                         </div>
+
+                        <div class="text-danger" asp-validation-summary="ModelOnly"></div>
 
                         <label class="container">
                             I agree to <a href="#">Conditions</a> of Use and <a href="#">Privacy</a>

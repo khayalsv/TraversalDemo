@@ -176,3 +176,15 @@ C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Vie
 C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Views\Comment\AddComment.cshtml.g.cs
 C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Views\Login\SignUp.cshtml.g.cs
 C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Views\Login\SignIn.cshtml.g.cs
+C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Areas\Member\Views\Comment\Index.cshtml.g.cs
+C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Areas\Member\Views\Message\Index.cshtml.g.cs
+C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Areas\Member\Views\Shared\_MemberLayout.cshtml.g.cs
+C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Areas\Member\Views\Shared\_MemberLayoutPartial\_HeaderPartial.cshtml.g.cs
+C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Areas\Member\Views\Shared\_MemberLayoutPartial\_Navbar2Partial.cshtml.g.cs
+C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Areas\Member\Views\Shared\_MemberLayoutPartial\_FooterPartial.cshtml.g.cs
+C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Areas\Member\Views\Shared\_MemberLayoutPartial\_RightbarPartial.cshtml.g.cs
+C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Areas\Member\Views\Shared\_MemberLayoutPartial\_ScriptsPartial.cshtml.g.cs
+C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Areas\Member\Views\Shared\_MemberLayoutPartial\_NavbarPartial.cshtml.g.cs
+C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Areas\Member\Views\_ViewImports.cshtml.g.cs
+C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Areas\Member\Views\_ViewStart.cshtml.g.cs
+C:\Users\selim\Desktop\TraversalDemo\TraversalProject\obj\Debug\net5.0\Razor\Areas\Member\Views\Destination\Index.cshtml.g.cs
