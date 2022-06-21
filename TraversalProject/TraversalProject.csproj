@@ -376,6 +376,7 @@
 
   <ItemGroup>
     <Folder Include="Areas\Member\Data\" />
+    <Folder Include="wwwroot\userimages\" />
     <Folder Include="wwwroot\Traversal-Dashboard\.git\objects\info\" />
     <Folder Include="wwwroot\Traversal-Dashboard\.git\objects\pack\" />
     <Folder Include="wwwroot\Traversal-Dashboard\.git\refs\tags\" />
